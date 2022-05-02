@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">  
+    <PreferenceCategory  
+        android:summary="App Settings"  
+        android:title="Settings" >  
+        <CheckBoxPreference  
+            android:key="checkBox"  
+            android:summary="On/Off"  
+            android:title="Modo Noturno" /> 
+		<ListPreference
+			android:entries="@array/listLangChoice"
+			android:entryValues="@array/listLang"
+			android:key="ttsLang"
+			android:summary="Tts Speech"
+			android:title="Language TTsSpeech"
+			/>
+        <ListPreference  
+            android:entries="@array/listRate"  
+            android:entryValues="@array/listValues"  
+            android:key="rate"  
+            android:summary="ttsSpeech rate of speech"  
+            android:title="TtsSpeech rate" />  
+        <ListPreference  
+            android:entries="@array/listPitch"  
+            android:entryValues="@array/listValues"  
+            android:key="pitch"  
+            android:summary="ttsSpeech pitch of speech"  
+            android:title="TtsSpeech pitch" />  
+    </PreferenceCategory>  
+</PreferenceScreen>  

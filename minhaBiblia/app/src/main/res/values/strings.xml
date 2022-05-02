@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LeBible - BR</string>
+	<string name="title">Biblia Sagrada</string>
+	<string name="owner">By Manoel Vitor</string>
+	<string name="about">Sobre - LeBible</string>
+	<string name="html">
+		<![CDATA[
+		<h2 id="title">Sobre LeBible</h2>
+		<p>
+		   Biblia Gr&aacute;tis para Android, como sintetização de voz,
+		   Esss Biblia foi baseado na ver&atilde;o James King Atualizado.
+		   <br>
+		   Software Livre, voc&ecirc; poder&aacute; compartilhar-lo. Proibido a venda do aplicativo, 
+		   para fins lucrativos.
+		<br>
+		Novas atualiza&ccedil;&otilde;es estar&atilde; disponivel por meio desse link:<br>
+		<a download="lebible.zip" id="link" href="https://github.com/mvictor10/bible-mobile/files/8010327/leBible-v1.0.4.zip">BAIXE AQUI</a><br>
+		</p>
+		<h4>Equipe de Desenvolvimento</h4>
+		<p><span style="color:red;">Desenvolvedor:</span> Manoel Vitor</p>
+		<p><span style="color:red;">Designer e Layout:</span> Manoel Vitor</p>
+		<p><span style="color:red;">Sugestões/Designer:</span> Erivelton</p>
+		<h3>Redes Sociais</h3>
+		<p>
+			Email:<a href="mailto:mvictordossantos@gmail.com">mvictordossantos@gmail.com</a><br>
+			Telegram: <a href="https://t.me/joinchat/_ZiO0g1KGRQ0ZGQ5">GRUPO TELEGRAM</a><br>
+			Instagram: <a href="http://instagram.com/mvictor.limite">@mvictor.limite</a>
+		</p>
+		<p>Github: <a style="background:transparent;color:#FFFFFF; text-decoration:none;" href="https://mvictor10.github.io/lebible/">Mvictor10</a><br></p>
+		<h4>Todos Direitos Reservados para Manoel Vitor.</h4>
+		]]>
+	</string>
+	<string name="pitch_default">1.00f</string>
+	<string name="rate_default">0.70f</string>
+	<string name="lang_default">pt-BR</string>
+	<string name="ttsPitch">TTS PITCH</string>
+	<string name="ttsRate">TTS RATE</string>
+	<string name="ttsLang">TTS LANGUAGE</string>
+	<string name="modeNight">Mode</string>
+	<string name="version">v1.0.4</string>
+	<string name="btn_last">Voltar</string>
+	<string name="btn_next">Próximo</string>
+	<string name="play_list">Tocar Lista</string>
+	<string name="preference">Configurações</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string-array name="listPitch">  
+        <item>Grave+2</item>
+		<item>Grave+1</item>  
+		<item>Grave</item>  
+        <item>Normal</item>  
+        <item>Agudo</item>
+		<item>Agudo+1</item>
+		<item>Agudo+2</item>
+    </string-array>  
+	<string-array name="listRate">
+		<item>Lento+2</item>
+		<item>Lento+1</item>
+        <item>Lento</item>  
+        <item>Normal</item>  
+        <item>Rápido</item>
+		<item>Rápido+1</item>
+		<item>Rápido+2</item>
+    </string-array>  
+    <string-array name="listValues">
+		<item>0.30f</item>
+		<item>0.50f</item>
+        <item>0.70f</item>  
+        <item>1.00f</item>  
+        <item>1.50f</item>
+		<item>1.80f</item>
+		<item>2.00f</item>
+    </string-array>  
+	<string-array name="listLangChoice">
+		<item>Português BR</item>
+		<item>Português PT</item>
+		<item>Español</item>
+		<item>Hebraico</item>
+		<item>English</item>
+		<item>Deutch</item>
+		<item>Japonês</item>
+	</string-array>
+	<string-array name="listLang">
+		<item>pt-BR</item>
+		<item>pt-PT</item>
+		<item>es-ES</item>
+		<item>he-IL</item>
+		<item>en-US</item>
+		<item>de-DE</item>
+		<item>ja-JP</item>
+	</string-array>
+</resources>  

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+	<color name="banner_title">#4D3F64</color>
+	<color name="red">#ff0000</color>
+	<color name="white">#ffffff</color>
+	<color name="gray">#3E4040</color>
+	<color name="blue">#89CFF0</color>
+	<color name="black">#000000</color>
+	<color name="gold">#F8C300</color>
+	<color name="primaryColor">#96c7dd</color>
+	<color name="primaryLightColor">#c8faff</color>
+	<color name="primaryDarkColor">#6696ab</color>
+	<color name="secondaryColor">#009688</color>
+	<color name="secondaryLightColor">#52c7b8</color>
+	<color name="secondaryDarkColor">#00675b</color>
+	<color name="primaryTextColor">#000000</color>
+	<color name="secondaryTextColor">#000000</color>
+	<color name="borderHover">	#40B5AD</color>
+	<color name="borderNormal">#89CFF0</color>
+</resources>
